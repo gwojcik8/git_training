@@ -4,3 +4,4 @@ line 3 - added after first commit
 line 4 - testing connect from gwodeb
 line 5 - something is working
 line 6 - trying to cash passphrase in ssh agent
+line 7 - modification on github side
