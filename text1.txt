@@ -2,3 +2,4 @@ line 1
 line 2
 line 3 - added after first commit
 line 4 - testing connect from gwodeb
+line 5 - something is working
